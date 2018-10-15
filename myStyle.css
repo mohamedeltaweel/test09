@@ -1,0 +1,43 @@
+   div{ font-family: 'K2D',cursive;
+       font-size: 2em;
+            color: blue;
+       direction:
+        }
+
+#r25{
+
+    background-color: rgba(10,250,40,0.2);
+    border-style: dashed;
+
+    border-color: brown;
+    padding: 10px 5px 20px 2px;
+
+    margin-bottom: 10px;
+
+    border-top-right-radius: 50%;
+
+    width: 400px;
+    height: 200px;
+    border-bottom-left-radius: 50%
+
+}
+
+html{ margin: 0; padding: 0;}
+
+body{
+    margin: 0;
+
+/*
+    background-image: url(TrialPic.jpg);
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+    background-position: center
+*/
+
+}
+
+        #myID{color:red;}
+
+        .mClass{color: burlywood}
